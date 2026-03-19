@@ -208,3 +208,6 @@ __marimo__/
 
 # Outputs
 outputs/
+
+# macOS
+.DS_Store
