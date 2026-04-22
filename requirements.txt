@@ -28,3 +28,5 @@ stack-data==0.6.3
 tornado==6.5.4
 traitlets==5.14.3
 wcwidth==0.6.0
+matplotlib==3.10.7
+numpy==2.3.4
